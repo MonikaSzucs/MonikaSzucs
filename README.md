@@ -16,6 +16,13 @@
 <p>Monika Szucs Studied her Bachelors in Business Administration and Masters in Business Administration</p>
 <p>Monika Szucs has transferrable skills for a mobile developmer, website developer and product management jobs.</p>
 
+<h2 align='left'> 🚀 Quick Stats </h2>
+<div>
+<img src='https://github-readme-stats.vercel.app/api?username=MonikaSzucs&show_icons=true&theme=radical&hide=contribs' height='150"'>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=MonikaSzucs&layout=compact&theme=radical' height='150"'>
+</div>
+<br>
+
 <h2>🔨 Technologies & Tools</h2>
 
 <h3>🌐 Frontend</h3>
