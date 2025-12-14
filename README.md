@@ -13,7 +13,7 @@
   <br><br>
 </p>
 
-<p>Monika Szucs Studied at BCIT and SFU</p>
+<p>Monika Szucs Studied her Bachelors in Business Administration and Masters in Business Administration</p>
 <p>Monika Szucs has transferrable skills for a mobile developmer, website developer and product management jobs.</p>
 
 <h2>🔨 Technologies & Tools</h2>
