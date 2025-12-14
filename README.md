@@ -14,7 +14,7 @@
 </p>
 
 <p>Monika Szucs Studied her Bachelors in Business Administration and Masters in Business Administration</p>
-<p>Monika Szucs has transferrable skills for a mobile developmer, website developer and product management jobs.</p>
+<p>Monika Szucs has transferrable skills for a mobile developmer, website developer and Technical Product Management jobs.</p>
 
 <h2 align='left'> 🚀 Quick Stats </h2>
 <div>
