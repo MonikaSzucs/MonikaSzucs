@@ -23,7 +23,7 @@
 </div>
 <br>
 
-<h2>🔨 Technologies & Tools</h2>
+<h2>🔨 Technologies & Tools! </h2>
 
 <h3>🌐 Frontend</h3>
 <p>
