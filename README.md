@@ -79,3 +79,11 @@
   <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
   <a href="#"><img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi"></a>
 </p>
+
+<h2> Experience </h2>
+<p>Assistant Program Head and Faculty Course Curriclum Developer Digital Design and Development Diploma and New Media and Website Development at BCIT</p>
+<ul>
+  <li>Taught faculty how to setup course curriculum.</li>
+  <li>Created content for coding, design, and marketing courses.</li>
+  <li>Managed Events for students to showcase their projects to other business owners.</li>
+</ul>
